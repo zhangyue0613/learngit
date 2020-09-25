@@ -1,0 +1,14 @@
+https://git-scm.com/download/win
+https://tortoisegit.org/download/
+教程：
+https://blog.csdn.net/hustpzb/article/details/8230454
+https://www.cnblogs.com/anayigeren/p/10177027.html
+【1】下载git、tortoisegit 安装
+【2】Git SSH Key 生成步骤
+【3】本地新建文件夹 执行命令 
+git clone git@code666.veryxiu.com:zhuzhiqiang/chaofan-web.git
+【4】把项目文件夹放在新建的文件夹仓库里，执行如下命令 提交
+执行
+git add .
+git commit -m 'first commit'
+git push
